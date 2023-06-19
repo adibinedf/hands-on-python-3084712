@@ -7,7 +7,9 @@ if RUN_INDENTED:
 
 print(message)
 
-
+# Test Comment
 def my_function():
     greet = "Hello"
     return greet
+
+print(my_function())
